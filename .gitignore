@@ -1,3 +1,6 @@
+# 
+ip2asn-v4.tsv.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
